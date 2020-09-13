@@ -7,33 +7,31 @@ namespace ConsoleCreatures
     static void Main()
     {
       // Showing the head
-      Console.WriteLine(" .-.");
-      Console.WriteLine("(o o)");
-      Console.WriteLine("| O |");
-      Console.WriteLine("|   |");
-      Console.WriteLine("'~~~'");
-      Console.WriteLine("GHOST");
-      Console.WriteLine();
+      Console.WriteLine("        .-.");
+      Console.WriteLine("       (o o)");
+      Console.WriteLine("       | O |");
+      Console.WriteLine("       |   |");
+      Console.WriteLine("       '~~~'");
+      Console.WriteLine("      -GHOST");
       Console.WriteLine();
 
+      Console.WriteLine("         c_     ___");
+　    Console.WriteLine("            \\\\__|__|__");
+　　  Console.WriteLine("             \\\\( o_o)");
+ 　　 Console.WriteLine("               > ~  >");
+　　　Console.WriteLine("              / 　 / \\\\");
+　　  Console.WriteLine("            /　　/　 \\\\");
+　　  Console.WriteLine("            \\　 )　　c/");
+　　  Console.WriteLine("           /　 /");
+　    Console.WriteLine("          /　/|");
+　    Console.WriteLine("         (　( \\");
+　    Console.WriteLine("         |　|  \\");
+　    Console.WriteLine("         | / \\  )");
+　    Console.WriteLine("         | |　) |");
+      Console.WriteLine("        /  )(_/");
+      Console.WriteLine("       (_ /");
 
-      Console.WriteLine("c_     ___");
-　    Console.WriteLine("   \\\\__|__|__");
-      Console.WriteLine("    \\\\( o_o)");
-      Console.WriteLine("      > ~  >");
-      Console.WriteLine("     / 　 / \\\\");
-      Console.WriteLine("    /　　/　 \\\\");
-      Console.WriteLine("    \\　 )　　c/");
-      Console.WriteLine("   /　 /");
-      Console.WriteLine("  /　/|");
-　    Console.WriteLine(" (　( \\");
-　    Console.WriteLine(" |　|  \\");
-　    Console.WriteLine(" | / \\  )");
-　    Console.WriteLine(" | |　) |");
-      Console.WriteLine("/  )(_/");
-      Console.WriteLine("(_ /");
-      Console.WriteLine();
-      Console.WriteLine("-Dancing Man");
+      Console.WriteLine("   -Dancing Man");
      }
   }
 }
